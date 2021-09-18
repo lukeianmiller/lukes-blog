@@ -17,13 +17,8 @@ class Bio extends React.Component {
         }}
       >
         <p>
-          <!-- --Real BIO goes here...someday 
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
-            You should follow him on Twitter
+          Written by or for <strong>Luke Miller</strong>
           </a>
-          -->
         </p>
       </div>
     )
