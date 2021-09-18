@@ -1,13 +1,11 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2021-09-17T10:20:00.000Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is my first post on from my Dad my new blog! How exciting!
 
-I'm sure I'll write a lot more interesting things in the future.
-
-Oh, and here's a great quote from this Wikipedia on
+From the [original template](https://github.com/philhawksworth/gatsby-starter-blog), an article on
 [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
 
 > A salted duck egg is a Chinese preserved food product made by soaking duck
