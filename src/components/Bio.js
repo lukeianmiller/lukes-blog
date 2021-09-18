@@ -18,7 +18,6 @@ class Bio extends React.Component {
       >
         <p>
           Written by or for <strong>Luke Miller</strong>
-          </a>
         </p>
       </div>
     )
